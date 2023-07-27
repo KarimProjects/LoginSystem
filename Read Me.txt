@@ -1,0 +1,22 @@
+This is 5 random valid data [[regex matched]]
+(names - emails - passwords) to register:
+*******************************************
+AshleyGreen1
+ashleygreen1@gmail.com
+B3n01t135
+
+DavidSmith2
+davidsmith2@yahoo.com
+Pa$$w0rd123
+
+GraceBrown3
+gracebrown3@aol.com
+Gr3c3fulBu11
+
+MichaelWilliams4
+michaelwilliams4@outlook.com
+M1cha3l4w1ft
+
+OliviaWhite5
+oliviawhite5@icloud.com
+0l1v1aWhr1te
